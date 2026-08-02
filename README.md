@@ -42,3 +42,5 @@ The risk assessment evaluated the following Control IDs:
 | **PS-3** | Personnel Screening |
 | **SC-7** | Boundary Protection |
 | **SI-2** | Flaw Remediation |
+
+![Risk Assessment](https://github.com/user-attachments/assets/ae6520b1-d3b2-4609-9c8f-d7ad67d9ffd7)
