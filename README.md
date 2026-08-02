@@ -43,4 +43,5 @@ The risk assessment evaluated the following Control IDs:
 | **SC-7** | Boundary Protection |
 | **SI-2** | Flaw Remediation |
 
-<img width="2240" height="950" alt="Screenshot 2026-08-01 at 5 12 31 PM" src="https://github.com/user-attachments/assets/91d21709-ac5a-481a-acc8-adb1dd37323d" />
+Below is a link to the risk assessment spreadsheet:
+[Visit Google Doc](https://docs.google.com/spreadsheets/d/1KNltdDzf-k_RYN-Cjlxvbb17opiNIXtp/edit?gid=1072416365#gid=1072416365)
