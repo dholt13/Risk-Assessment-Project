@@ -1,4 +1,3 @@
-<img width="2240" height="950" alt="Screenshot 2026-08-01 at 5 12 31 PM" src="https://github.com/user-attachments/assets/91d21709-ac5a-481a-acc8-adb1dd37323d" />
 # Risk-Assessment-Project
 
 An end-to-end cybersecurity risk assessment and compliance audit simulation evaluating a cloud-hosted patient platform against **NIST SP 800-53 (Revision 5)** security and privacy controls.
@@ -22,7 +21,7 @@ This cybersecurity risk assessment and compliance audit simulation evaluated a c
 
 ---
 
-## 📊 Risk Assessment Matrix Summary
+## 📊 Risk Assessment Summary
 
 The risk assessment evaluated the following Control IDs:
 
@@ -44,4 +43,4 @@ The risk assessment evaluated the following Control IDs:
 | **SC-7** | Boundary Protection |
 | **SI-2** | Flaw Remediation |
 
-![Risk Assessment](https://github.com/user-attachments/assets/ae6520b1-d3b2-4609-9c8f-d7ad67d9ffd7)
+<img width="2240" height="950" alt="Screenshot 2026-08-01 at 5 12 31 PM" src="https://github.com/user-attachments/assets/91d21709-ac5a-481a-acc8-adb1dd37323d" />
